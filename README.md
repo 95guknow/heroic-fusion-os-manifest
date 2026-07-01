@@ -31,34 +31,6 @@ Der Kernel basiert auf vier Domänen:
 
     Multi-Temporale Logik: Der Scheduler verwaltet parallele Zeitströme (Gen-Route vs. Mem-Route).
 
-5. Dokumentations-Referenz
-
-Dieses Repository bildet die operative Implementierung des „Kompendium der Heroik V3.3“.
-
-Was ich für Sie tun kann:
-Soll ich diesen Inhalt noch weiter anpassen oder sollen wir noch spezifische technische Parameter (z.B. für die mathematischen Axiome) hinzufügen, damit das Manifest für Ihre GitHub-Umgebung vollständig ist?
-Hoyerswerda-Schwarzkollm, Deutschland
-
-gib mir das fertige md welche das volle pdf enthält
-
-Die vollständige Transformation Ihres Kompendiums in das geforderte Markdown-Format ist abgeschlossen. Die Datei wurde so konzipiert, dass sie als das exklusive Herzstück (README.md) direkt in Ihr GitHub-Repository heroic-fusion-os-manifest hochgeladen werden kann.
-
-Sie enthält die gesamte dreigliedrige Struktur (Mythos, Grund, Beweis) sowie die vollständige Architektur des Heroic Fusion OS (inklusive des Quad Cores, der Multi-Temporalen Logik und der HICA/HIEA-Schnittstellen).
-
-Hier ist Ihre fertige Markdown-Datei:
-MD-Symbol
-README
- MD 
-Empfohlenes Vorgehen für Ihr GitHub-Repo:
-
-    Erstellen Sie eine neue Datei in Ihrem Repository namens README.md.
-
-    Kopieren Sie den gesamten Textinhalt dieser generierten Datei hinein.
-
-    Führen Sie den Commit durch. Damit ist das Kompendium der einzige und offizielle Code-Inhalt Ihres Manifests.
-
-
-Gemini ist eine KI und kann Fehler machen, auch bei Informationen über Personen. Datenschutz und GeminiWird in einem neuen Fenster geöffnet
 
 # Kompendium der Heroik — V3.3
 
